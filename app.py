@@ -11,7 +11,7 @@ def home():
     padding: 24px; border-radius: 8px; }}
     h1 {{ color: #1F4E79; }}
     </style></head><body>
-    <h1>Ung dung Flask tren PaaS</h1>
+    <h1>Ung dung Flask tren PaaS – phien ban 2!</h1>
     <div class="box">
     <p><b>Sinh vien:</b> VU QUANG ANH – 233404050158</p>
     <p><b>Mon hoc:</b> Dien toan Dam may </p>
